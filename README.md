@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdulghaffar39/Abdulghaffar39](https://github.com/Abdulghaffar39/Abdulghaffar39)
+- 👨‍💻 All of my projects are available at [https://github.com/Abdulghaffar39/Abdulghaffar39](https://github.com/Abdulghaffar39)
 
 - 💬 Ask me about **Javascript**
 
