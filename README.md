@@ -1,5 +1,7 @@
 ![logo](https://github.com/Abdulghaffar39/Abdulghaffar39/blob/main/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner.png)
 
+<h1 align="center">Hi 👋, I'm Abdul Ghaffar</h1>
+
 <h3 align="center">A passionate frontend developer from Pakistan</h3> <br />
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" align="right" width="400px" alt="img">
