@@ -1,5 +1,7 @@
 ![logo](https://github.com/Abdulghaffar39/Abdulghaffar39/blob/main/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner.png)
 
+![](https://komarev.com/ghpvc/?username=your-github.com/Abdulghaffar39&abbreviated=true)
+
 <h1 align="center">Hi 👋, I'm Abdul Ghaffar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
