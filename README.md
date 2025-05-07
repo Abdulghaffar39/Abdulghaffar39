@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img src="https://komarev.com/ghpvc/?username=Abdulghaffar39&abbreviated=true" align="right"><br /><br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" align="right" width="400px" alt="img">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" align="right" width="400px" alt="img">&nbsp;
 
 - 🌱 I’m currently learning **Logics**
 
@@ -26,9 +26,9 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulghaffar39&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br /><br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulghaffar39&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abdulghaffar39&show_icons=true&locale=en" alt="abdulghaffar39" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulghaffar39&" alt="abdulghaffar39" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulghaffar39&show_icons=true&locale=en" alt="abdulghaffar39" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulghaffar39&" alt="abdulghaffar39" /></p>
 
 
